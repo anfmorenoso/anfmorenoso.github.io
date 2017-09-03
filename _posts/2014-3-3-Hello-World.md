@@ -1,9 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+<h1>Français</h1>
+
+Je m'appelle Felipe Moreno, Je suis etudiant de genie informatique à l'université nationale de la colombie.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
