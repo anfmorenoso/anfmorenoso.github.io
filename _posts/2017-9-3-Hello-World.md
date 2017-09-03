@@ -24,5 +24,3 @@ Je m'appelle Felipe Moreno, Je suis etudiant de genie informatique à L'universi
 Hola, el español es de hecho mi lengua materna, si no has podido entender los otros dos párrafos, un resumen es que me llamo Felipe Moreno, soy un estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia, vivo en Bogotá, Colombia, con mis padres, mis hermanos y mi gata, es parecida a un siamés tradicional pero es mas criolla que yo, sin embargo es preciosa y yo la amo.
 He trabajado Javascript, Ruby, Python y HTML principalmente, además soy familiar con el framework Ruby on Rails.
 Tengo 22 años y me encanta la fotografía y montar bici.
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
