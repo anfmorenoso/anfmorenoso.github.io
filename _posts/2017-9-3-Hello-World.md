@@ -3,7 +3,7 @@ layout: post
 title: Hello World
 ---
 
-![_config.yml]({{ site.baseurl }}/images/me.jpg)
+<center><img src="https://raw.githubusercontent.com/anfmorenoso/anfmorenoso.github.io/master/images/me.jpg" alt="Me"> </center>
 
 <h2>English</h2>
 
