@@ -25,4 +25,4 @@ Hola, el español es de hecho mi lengua materna, si no has podido entender los o
 He trabajado Javascript, Ruby, Python y HTML principalmente, además soy familiar con el framework Ruby on Rails.
 Tengo 22 años y me encanta la fotografía y montar bici.
 
-[Back](anfmorenoso.github.io).
+<a href="anfmorenoso.github.io">Back</a>
