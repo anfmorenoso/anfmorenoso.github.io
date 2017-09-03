@@ -3,7 +3,7 @@ layout: post
 title: Hello World
 ---
 
-<center>![_config.yml]({{ site.baseurl }}/images/me.jpg)</center>
+<center> ![_config.yml]({{ site.baseurl }}/images/me.jpg) </center>
 
 x
 
