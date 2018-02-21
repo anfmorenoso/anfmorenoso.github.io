@@ -54,7 +54,7 @@ to create linebreak tags
 
 Finally, horizontal lines
 
-[Back](anfmorenoso.github.io).
+[Back](/).
 
 ----
 ****

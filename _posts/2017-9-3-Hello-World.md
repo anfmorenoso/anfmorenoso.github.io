@@ -3,7 +3,8 @@ layout: post
 title: Hello World
 ---
 
-<center><img src="https://raw.githubusercontent.com/anfmorenoso/anfmorenoso.github.io/master/images/me.jpg" alt="Me"> </center>
+![an image alt text]({{ site.baseurl }}/images/me.jpg "thats me "){: .center-image}
+<!-- <center><img src="https://raw.githubusercontent.com/anfmorenoso/anfmorenoso.github.io/master/images/me.jpg" alt="Me"> </center> -->
 
 <h2>English</h2>
 
@@ -25,4 +26,4 @@ Hola, el español es de hecho mi lengua materna, si no has podido entender los o
 He trabajado Javascript, Ruby, Python y HTML principalmente, además soy familiar con el framework Ruby on Rails.
 Tengo 22 años y me encanta la fotografía y montar bici.
 
-[Back](anfmorenoso.github.io).
+[Back](/).
